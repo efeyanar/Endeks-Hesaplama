@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\23MY03009_odev_no02\23MY03009_odev_no02\bin\Debug\23MY03009_odev_no02.exe.config
+C:\Users\user\source\repos\23MY03009_odev_no02\23MY03009_odev_no02\bin\Debug\23MY03009_odev_no02.exe
+C:\Users\user\source\repos\23MY03009_odev_no02\23MY03009_odev_no02\bin\Debug\23MY03009_odev_no02.pdb
+C:\Users\user\source\repos\23MY03009_odev_no02\23MY03009_odev_no02\obj\Debug\23MY03009_odev_no02.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\23MY03009_odev_no02\23MY03009_odev_no02\obj\Debug\_23MY03009_odev_no02.Form1.resources
+C:\Users\user\source\repos\23MY03009_odev_no02\23MY03009_odev_no02\obj\Debug\_23MY03009_odev_no02.Properties.Resources.resources
+C:\Users\user\source\repos\23MY03009_odev_no02\23MY03009_odev_no02\obj\Debug\23MY03009_odev_no02.csproj.GenerateResource.cache
+C:\Users\user\source\repos\23MY03009_odev_no02\23MY03009_odev_no02\obj\Debug\23MY03009_odev_no02.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\23MY03009_odev_no02\23MY03009_odev_no02\obj\Debug\23MY03009_odev_no02.exe
+C:\Users\user\source\repos\23MY03009_odev_no02\23MY03009_odev_no02\obj\Debug\23MY03009_odev_no02.pdb
